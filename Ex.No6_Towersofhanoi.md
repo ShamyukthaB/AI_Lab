@@ -7,11 +7,16 @@ To  write  a logic program  to solve Towers of Hanoi problem  using SWI-PROLOG.
 1. Start the program
 2.  Write a rules for finding solution of Towers of Hanoi in SWI-PROLOG.
     a )	If only one disk  => Move disk from X to Y.
+    
      b)	If Number of disk greater than 0 then
+    
            i)	Move  N-1 disks from X to Z.
+    
           ii)	Move  Nth disk from X to Y
+    
          iii)	Move  N-1 disks from Y to X.
-3. Run the program  to find answer of  query.
+    
+4. Run the program  to find answer of  query.
 
 ### Program:
 ```
