@@ -43,16 +43,3 @@ dfs(visited, graph, '5')
 Thus, the Depth First Search order was successfully obtained.
 
 
-
-
-
-
-
-
-
-### Output:
-
-
-
-### Result:
-Thus the depth first search order was found sucessfully.
