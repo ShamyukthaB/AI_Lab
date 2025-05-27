@@ -49,18 +49,3 @@ bfs(visited, graph, '5')
 ### Result:
 Thus, the Breadth First Search order was successfully obtained.
 
-
-
-
-
-
-
-
-
-
-### Output:
-
-
-
-### Result:
-Thus the breadth first search order was found sucessfully.
