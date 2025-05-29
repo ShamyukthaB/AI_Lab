@@ -5,13 +5,13 @@
 To find the sequence of plan for Monkey Banana problem using PDDL Editor.
 
 ###  Algorithm:
-Step 1:  Start the program <br> 
-Step 2 : Create a domain for Monkey Banana Problem. <br> 
-Step 3:  Create a domain by specifying predicates. <br> 
-Step 4: Specify the actions GOTO, CLIMB, PUSH-BOX, GET-KNIFE, GRAB-BANANAS in Monkey Banana problem.<br>  
-Step 5:   Define a problem for Monkey Banana problem.<br> 
-Step 6:  Obtain the plan for given problem.<br> 
-Step 7: Stop the program.<br> 
+1. Start the program.  
+2. Create a domain for Monkey Banana Problem.  
+3. Define predicates for the problem.  
+4. Specify actions: `GO-TO`, `CLIMB`, `PUSH-BOX`, `GET-KNIFE`, `GRAB-BANANAS`.  
+5. Define a problem instance for the Monkey Banana problem.  
+6. Obtain the plan for the given problem.  
+7. Stop the program.
 
 ### Program(Domain):
 ```
